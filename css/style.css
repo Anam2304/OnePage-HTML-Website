@@ -81,6 +81,7 @@ img {
 
 .navbar-brand span {
     color: #ff4d29;
+    
 }
 
 .btn {
@@ -97,4 +98,8 @@ img {
 .btn-brand:hover {
     color: #ffffff;
     background-color: #ed2d07;
+}   
+
+.slide1{
+    
 }
